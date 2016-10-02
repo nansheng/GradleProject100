@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GradleProject100.iml" filepath="$PROJECT_DIR$/GradleProject100.iml" />
-      <module fileurl="file://$PROJECT_DIR$/androidjoke/androidjoke.iml" filepath="$PROJECT_DIR$/androidjoke/androidjoke.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidjokes/androidjokes.iml" filepath="$PROJECT_DIR$/androidjokes/androidjokes.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
